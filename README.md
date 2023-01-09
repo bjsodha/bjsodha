@@ -4,6 +4,10 @@
   <a href="https://github.com/bjsodha"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+SODHA;FOLLOW+ME+FOR+MORE;TRYING+TO+LEARN+PYTHON;MOST+ACTIVE+ON+TELEGRAM" alt="UwU">
 </p>
 
+<p align="center">
+	<img alt="profile views" src="https://komarev.com/ghpvc/?username=yashoswalyo&style=flat-square">
+</p>
+
 ### My Other Details
 
 <!-- Any image aligned to the right. Beware the width -->
@@ -46,10 +50,6 @@
 <p align="center">
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjsodha&layout=compact&theme=tokyonight" align="center">
-
-<p align="center">
-	<img alt="profile views" src="https://komarev.com/ghpvc/?username=yashoswalyo&style=flat-square">
-</p>
 
 <details open="">
 	<summary>
