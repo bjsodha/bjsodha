@@ -37,15 +37,15 @@
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=jeolpaul&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=bjsodha&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeolpaul&&show_icons=true&theme=midnight-purple" alt="JEOLPAUL"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bjsodha&&show_icons=true&theme=midnight-purple" alt="Bhimsinh Sodha"/></p>        
  
 <p align="center">
 Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeolpaul&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjsodha&layout=compact&theme=tokyonight" align="center">
 
 <p align="center">
 	<img alt="profile views" src="https://komarev.com/ghpvc/?username=yashoswalyo&style=flat-square">
@@ -56,8 +56,6 @@ Used Languages
 		<b>Language and Tools:<b>
 	</summary>
 	<p>
-		<a href="https://www.github.com/"><img
-				src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="" srcset=""></a>
 		<a href="https://www.python.org/"><img
 				src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt=""></a>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img
@@ -74,7 +72,6 @@ Used Languages
 		<a href="hhtps://www.heroku.com/"><img
 				src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt=""
 				srcset=""></a>
-		<a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="" srcset=""></a>
 	</p>
 </details>
 
